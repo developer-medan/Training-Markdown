@@ -26,7 +26,7 @@ class HelloWorld{
 - [x] Belajar tentang markdown
 - [ ] Belajar Bahasa Java
 - [ ] Belajar framework Laravel
-- [x] Belajar membuat website sederhana dengan markdown
+- [x] Belajar membuat website sederhana dengan Markdown
 
 ##### 4. Membuat link
 [link ke petanikode](https://www.petanikode.com/)
